@@ -10,7 +10,11 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxt/fonts": "^0.10.3",
+    "@nuxtjs/tailwindcss": "^6.12.2",
+    "gsap": "^3.12.5",
     "nuxt": "^3.14.1592",
+    "nuxt-aos": "^1.2.5",
     "vue": "latest",
     "vue-router": "latest"
   }
